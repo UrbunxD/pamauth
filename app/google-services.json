@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "119396667276",
+    "project_id": "authpam",
+    "storage_bucket": "authpam.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:119396667276:android:1ea2be43149319c82ed0a9",
+        "android_client_info": {
+          "package_name": "com.example.authpam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "119396667276-nhk9p7m00frtj124qr0rltq6qg4orvjq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.authpam",
+            "certificate_hash": "fd5c884d1c7ef28ca2e18a936354f8ae39e2465b"
+          }
+        },
+        {
+          "client_id": "119396667276-35cqd06u41gg1f58m8mcu87o5o8k9mjn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTEHv_u1OIKnq6InV3Ohx989h2DunOsV4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "119396667276-35cqd06u41gg1f58m8mcu87o5o8k9mjn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
